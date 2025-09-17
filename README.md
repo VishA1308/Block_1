@@ -33,8 +33,5 @@ reconstructed_img = reconstruct_image(colored_blocks, width, height, block_size)
 
     Программа обработает изображение и покажет оригинал и восстановленную версию
 
-    Восстановленное изображение сохраняется как reconstructed_image.jpg
-
-    Matplotlib
 
     Keyboard (для управления просмотром блоков)
