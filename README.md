@@ -34,4 +34,4 @@ reconstructed_img = reconstruct_image(colored_blocks, width, height, block_size)
     Программа обработает изображение и покажет оригинал и восстановленную версию
 
 
-    Keyboard (для управления просмотром блоков)
+
